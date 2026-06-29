@@ -1,6 +1,6 @@
 # Challenge 1 - Orientação a Objetos em Java
 
-Projeto desenvolvido como parte de um challenge do UOL Back-end Journey (Spring Boot) - AWS Cloud
+Projeto desenvolvido como parte de um challenge do Back-end Journey (Spring Boot) - AWS Cloud
 Context no Scholarship Program – Compass UOL, que ocorreu entre os dias 05/06/2023 e 01/11/2023, com foco na prática de conceitos de Programação Orientada a Objetos utilizando Java.
 
 ## Sobre o projeto
